@@ -70,7 +70,7 @@ const About = () => {
       <div className="grid tablet:grid-cols-2 mobile:grid-cols-1 gap-4">
         <div className="font-bold p-about">
           <img src={about2} alt="photo with eliza doltu" className="rounded-lg"/>
-          <p className="mt-4 text-lg">eliza - teodora doltu &nbsp;&nbsp; student &nbsp;&nbsp; &#40;16/07/2003&#41;</p>
+          <p className="mt-4 text-lg">Anuxr4g &nbsp;&nbsp; student &nbsp;&nbsp; &#40;16/07/2003&#41;</p>
           <p className="text-lg">romania &nbsp;&nbsp; targu ocna &nbsp;&nbsp; iasi</p>
         </div>
         <div className="p-about">
