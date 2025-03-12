@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Allow: /
+
+# Sitemaps
+Sitemap: https://elizadoltuofficial.net/sitemap.xml
+
+# Optional crawl delay for bots
+Crawl-delay: 10

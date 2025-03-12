@@ -1,0 +1,23 @@
+.cursor-default {
+    background-color: black;
+  }
+  
+  .cursor-hovered {
+    background-color: red;
+   
+  }
+  
+  .cursor-rectangle {
+    width: 120px;
+    height: 40px;
+    background-color: blue;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
