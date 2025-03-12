@@ -82,7 +82,7 @@ const Contact = () => {
                   <li>
                     <a
                       href="/pdf/CV Doltu Teodora - Eliza.pdf"
-                      download="Resume Eliza - Teodora Doltu"
+                      download="Resume"
                       className="hover-link"
                       target="_blank"
                     >

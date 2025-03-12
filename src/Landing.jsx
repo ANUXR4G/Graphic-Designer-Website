@@ -103,7 +103,7 @@ const Landing = () => {
         <div className="flex justify-between overflow-hidden tablet:flex-row mobile:flex-col -z-10">
           <div className="flex justify-center items-center">
             <div className="flex flex-col font-urbanist custom-animation tablet:ml-5 mobile:-ml-24">
-              <h1>ELIZA - TEODORA DOLTU</h1>
+              <h1>ANUXR4G</h1>
               <h1 className="font-extrabold">DESIGNER & DEVELOPER</h1>
             </div>
             <div className="flex flex-col ml-3  font-bold text-white custom-animation font-urbanist">
